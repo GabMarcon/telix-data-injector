@@ -1,0 +1,28 @@
+# Ambientes Virtuais
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Arquivos de Configuração e Estado do Telix Injector
+andro2telix_config.json
+.telix_checkpoints.json
+
+# Logs e Relatórios Locais
+*.log
+*.log.*
+Relatorio_Reinsercao_*.txt
+
+# Arquivos de Dead-Letter Queue (Falhas de Inserção)
+*_FALHAS.csv
+
+# IDEs e SO
+.vscode/
+.idea/
+.DS_Store
