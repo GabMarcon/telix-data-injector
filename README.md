@@ -1,4 +1,4 @@
-# Telix Data Injector - Pro Edition
+# Telix Data Injector
 
 Aplicação de ETL (Extract, Transform, Load) desenvolvida para reinserção de telemetria massiva na plataforma Telix. Projetada para alta performance, tolerância a falhas e controle de vazão de rede, garantindo que grandes volumes de dados de dataloggers sejam integrados sem sobrecarregar a Cadeia de Regras (Rule Engine) do servidor.
 
